@@ -2,6 +2,7 @@
 Sentiment analysis pyplot graphs of a topic on subreddit over time
 # TODO
 Some refining needs to be done. The following results paint an incomplete picture of the topic in the context of their subreddits.
+
 ![EA.png](EA.png)
 
 Doesn't make sense as EA is notorious for microtransactions and lootboxes.
